@@ -1,0 +1,83 @@
+<html>
+<head>
+   <title>Personal Information</title>
+</head>
+
+<table border = 4 bordercolor = navy align = center width = 350>
+<tr>
+<th colspan = 5 bgcolor = #ffbb00><marquee>ACTIVITY 1</th></marquee>
+</tr>
+ <style>
+      marquee{
+      font-size: 15px;
+      font-weight: 800;
+      color: #0044ff;
+      font-family: sans-serif;
+      }
+    </style>
+<tr>
+<th align = center bgcolor = magenta><a href = "Home.html"> Home </a></th>
+<th align = center bgcolor = lightgreen><a href = "Personal.html"> Personal </a></th>
+<th align = center bgcolor = skyblue><a href = "About.html">Family</a></th>
+<th align = center bgcolor = darkorange><a href = "Contacts.html"> Contact </a></th>
+<th align =center bgcolor = #2E5090><a href="LogIn Form.html">LogOut</a></th>
+</tr>
+
+</table>
+<table border = 4 bordercolor = navy align = center width = 350>
+<tr>
+<th colspan = 3 bgcolor = #ffbb00><marquee behavior="scroll" direction="left"> Personal Information </marquee></th>	
+</tr>
+<th
+<tr bgcolor = #ffbb00>
+	
+<img src = "jekob.jpg" width = 100 height = 100 border = 4> 
+<table border = 4 bordercolor = navy align = center width = 350>
+<tr>	
+</tr>
+<br
+<tr>
+
+<tr bgcolor = #ffbb00>
+<td style = "font-size:12px" align = center><b> Name </b>
+
+<td align = center> Jaycob Magno
+</td>
+</tr>
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Section </td></b>
+<td align = center> BSIT 2114 </td>
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Address </b>
+<br>
+<td align = center> Lily Feliciano St. Barangay Pasong Putik
+</td>
+</tr>
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Height </td></b>
+<td align = center> 5'5 </td>
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Weight </b>
+<br>
+<td align = center> 60kg
+</td>
+</tr>
+<th style = "font-size:20px" align = center bgcolor = lightgreen colspan = 4> Educational Background
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Primary </td></b>
+<td align = center> Maligaya Elementary School (S.Y. 2009-2010) </td>
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Secondary </b>
+<br>
+<td align = center> Maligaya High School(S.Y. 2016-2019)
+</td>
+</tr>
+<th style = "font-size:20px" align = center bgcolor = lightgreen colspan = 4> Skill
+<tr bgcolor = #ffbb00>
+<td style = "font-size:15px" align = center><b> Design</td></b>
+<td align = center> Sketch up and Rendering </td>
+</th>
+</tr>
+</table>
+</body>
+</html>
